@@ -1,0 +1,22 @@
+Tephsija is really free software and doesn't have a licence 
+associated with it, you can mess with it as you wish. If you
+make some cool changes be sure to share them.
+
+Tephsija (taP-Hsee-yAh) is a minimalist php framework
+
+* Deploying tephsija for use:
+    1. Customize directory name in .htaccess
+    2. Customize app_path in Config_Bootstrap
+    3. Customize defaults in Config_Bootstrap
+    4. Customize Core_Error layouts before you deploy
+    5. Enter db data in Config_Db if you are using Db_Table
+
+* Developing tephsija:
+    0. If you aren't using emacs, try it :)
+    1. Use unix style line nedings
+    2. Save files as UTF-8 without BOM
+    3. Use Zend Frameworks coding style
+    4. 1 Tab indention equals 4 spaces
+    5. Practice literary programming, write not for the machine
+    but for other loving human beings
+    6. Use your brain and respect the others

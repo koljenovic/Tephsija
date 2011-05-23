@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteBase /tephsija/
+RewriteCond $1 !^(index\.php|public|robots\.txt)
+RewriteRule ^((.*)[^/])$ $1/ [R]
+RewriteCond $1 !^(index\.php|public|robots\.txt)
+RewriteRule ^(.*[/])$ index.php?data=$1 [L]

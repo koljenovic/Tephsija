@@ -1,0 +1,10 @@
+<img src="<?php echo $this->image ?>" alt="Tephsija nacionale" />
+<p>U tephsiji pita vruca, <br />
+vani kisa pada,<br />
+haiku i ja nebo i zemlja,<br />
+ko php i ruby.</p>
+
+<p>In tephsija a pie hot,<br />
+raining outside it is,<br />
+haiku and I as heaven end earth,<br />
+like php and ruby.</p>
